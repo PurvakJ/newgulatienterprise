@@ -79,7 +79,7 @@ function Contact() {
         <div className="container">
           <h1 className="contact-hero-title">Let's Connect & Create</h1>
           <p className="contact-hero-subtitle">
-            Ready to elevate your style? Get in touch with theRareFold to discuss 
+            Ready to elevate your style? Get in touch with theNewGulatiEnterpriseFold to discuss 
             your fashion journey and how we can help you express your unique identity.
           </p>
         </div>
@@ -149,7 +149,7 @@ function Contact() {
               <div className="contact-testimonial">
                 <div className="testimonial-quote">"</div>
                 <p className="testimonial-text">
-                  theRareFold transformed my wardrobe. Their attention to detail and 
+                  theNewGulatiEnterpriseFold transformed my wardrobe. Their attention to detail and 
                   personalized styling exceeded all my expectations.
                 </p>
                 <div className="testimonial-author">
@@ -185,7 +185,7 @@ function Contact() {
                   <p>You've reached the maximum number of messages. Please try one of these alternatives:</p>
                   <ul>
                     <li>Call us directly: <strong>437-973-4414</strong></li>
-                    <li>Email us: <strong>hello@therarefold.com</strong></li>
+                    <li>Email us: <strong>hello@theNewGulatiEnterprisefold.com</strong></li>
                     <li>Try again in 24 hours</li>
                   </ul>
                   <button onClick={handleRetry} className="retry-button">
@@ -388,3 +388,7 @@ function Contact() {
 }
 
 export default Contact;
+
+
+
+

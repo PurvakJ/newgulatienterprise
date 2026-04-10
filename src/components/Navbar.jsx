@@ -73,7 +73,7 @@ function Navbar() {
             <Link to="/" onClick={closeMobileMenu}>
               <img 
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcBHBpXtHr4FOVhx0KhafT1cjoM8uAnzrwA&s" 
-                alt="RARE_FOLD"
+                alt="NEW_GULATI_ENTERPRISE"
                 style={{ maxWidth: '150px', maxHeight: '50px' }}
               />
             </Link>
@@ -94,7 +94,7 @@ function Navbar() {
           <Link to="/" onClick={closeMobileMenu}>
             <img 
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcBHBpXtHr4FOVhx0KhafT1cjoM8uAnzrwA&s" 
-              alt="RARE_FOLD"
+              alt="NEW_GULATI_ENTERPRISE"
               style={{ maxWidth: '221px', maxHeight: '95px' }}
             />
           </Link>
@@ -182,7 +182,7 @@ function Navbar() {
             </a>
           </div>
           <div className="footer-content">
-            <p>Grace in every frame, love in every story. © 2025 Rare_Fold. With gratitude.</p>
+            <p>Grace in every frame, love in every story. © 2025 NEW_GULATI_ENTERPRISE. With gratitude.</p>
           </div>
           <div className="branding">
             Site by <a href="https://purvakj.github.io/purvak/" target="_blank" rel="noopener noreferrer">SSIT</a>
