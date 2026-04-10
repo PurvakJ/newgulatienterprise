@@ -28,7 +28,7 @@ function App() {
     return (
       <div className="loader-container">
         <img 
-          src="https://i.postimg.cc/Gm9dqB1T/Whats-App-Image-2026-03-11-at-11-12-08.jpg" 
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcBHBpXtHr4FOVhx0KhafT1cjoM8uAnzrwA&s" 
           alt="Loading Logo" 
           className="loader-image"
         />
