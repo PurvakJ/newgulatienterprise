@@ -61,7 +61,7 @@ function Navbar() {
     return cleaned.startsWith('91') ? cleaned : `91${cleaned}`;
   };
 
-  const whatsappNumber = '7973590682'; // Your phone number without formatting
+  const whatsappNumber = '8360404950'; // Your phone number without formatting
   const whatsappLink = `https://wa.me/${formatWhatsAppNumber(whatsappNumber)}?text=Hi%20thenewgulatienterprise%2C%20I%27d%20like%20to%20know%20more%20about%20your%20collection.`;
 
   return (

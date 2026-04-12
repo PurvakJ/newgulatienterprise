@@ -379,7 +379,7 @@ function Contact() {
         <div className="container">
           <div className="emergency-banner">
             <h3>Need immediate assistance?</h3>
-            <p>For urgent inquiries, please call us directly at <strong>8360404950</strong></p>
+            <p>For urgent inquiries, please call us directly at <strong>8360404950</strong> & <strong>9417070374</strong></p>
           </div>
         </div>
       </section>

@@ -42,14 +42,14 @@ function Home() {
       caption: 'Elegant Formal Shirts'
     },
     {
-      url: 'https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
+      url: 'https://img.sanishtech.com/u/789ed4ca4ae0f39ea4af459d2c3e7fbd.jpeg',
       alt: 'Casual jeans outfit',
       caption: 'Everyday Casual Wear'
     },
     {
-      url: 'https://images.unsplash.com/photo-1589310243389-96a5483213a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
+      url: 'https://img.sanishtech.com/u/fc4e6e1c5dffd086e82eadab43dcc142.jpeg',
       alt: 'Men in denim jacket',
-      caption: 'Denim Jacket Collection'
+      caption: 'Jeans Collection'
     },
     {
       url: 'https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
@@ -62,7 +62,7 @@ function Home() {
       caption: 'Modern Casual Style'
     },
     {
-      url: 'https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
+      url: 'https://img.sanishtech.com/u/fc4e6e1c5dffd086e82eadab43dcc142.jpeg',
       alt: 'Men clothing display',
       caption: 'Complete Your Look'
     }
@@ -97,15 +97,15 @@ function Home() {
       position: 'left'
     },
     {
-      url: 'https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
+      url: 'https://img.sanishtech.com/u/201a89762d40e774b6e40d336646916d.jpeg',
       alt: 'Formal shirts',
       caption: 'Formal Collection',
       position: 'center'
     },
     {
-      url: 'https://images.unsplash.com/photo-1589310243389-96a5483213a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
+      url: 'https://img.sanishtech.com/u/38b31cd37c99c643451931d2a2be6a7b.jpeg',
       alt: 'Denim jacket style',
-      caption: 'Denim Style',
+      caption: 'Jeans Style',
       position: 'right'
     }
   ];
